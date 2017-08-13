@@ -4,3 +4,5 @@ Page: "Your first Django project", mention username in <username>.pythonanywhere
 Error with import django module on pythonanywhere; goes after reloading website a couple of times
 
 Blog posts are already created previously through admin interface (says to try some with publish date), but later we create posts again through Django shell and check that no posts are already published (QuerySets)
+
+In Extending Application, where to add head tag
